@@ -26,8 +26,7 @@ Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.co
 
 </details>  
 <details>
-  <summary>Steps to self Host!! </summary>
-
+ 
 
 ## Credits
 The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
