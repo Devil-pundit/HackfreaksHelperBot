@@ -1,13 +1,13 @@
-#HackFreaks
+# HackFreaks (\_/SIMPLE REPO\_/)
 
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
 Originally a Marie fork.
 
-Can be found on telegram as [HackfreaksHelperBot](https://t.me/HackfreaksHelperBot).
+Can be found on telegram as [HackfreaksHelperBot](https://t.me/HackfreaksHelperBot) (Permanently Dead) Use [MrHackfreaksRobot](https://t.me/MrHackfreaksRobot)
 
-The Support group can be reached out to at [Hackfreaks](https://t.me/hackfreaks) .
+The Support group can be reached out to at [HackfreaksSupport](https://t.me/HackfreaksSupport) .
 
 ## How to setup/deploy.
 
@@ -22,7 +22,7 @@ Turn on worker dyno (Don't worry It's free :D) & Webhook
 Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
 ```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/swatv3nub/Hackfreaks10kSpecialBot)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/swatv3nub/Hackfreakshelperbot.git)
 
 </details>  
 <details>
@@ -34,4 +34,4 @@ This repo was just revamped for an groups private need. All original credits go 
 
 Any other authorship/credits can be seen through the commits.
 
-Should any be missing kindly let us know at [Hackfreaks](https://t.me/Hackfreaks) .
+Should any be missing kindly let us know at [Hackfreaks](https://t.me/HackfreaksSupport) .
