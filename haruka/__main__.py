@@ -22,17 +22,13 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-I am HACKFREAKS, haha HACKFREAKS BOT basically.
+I am A group-manager bot
 
-I'm group manager and Anti-Spam Bot for Hackfreaks Chat
+Made from [Haruka](t.me/HarukaAyaBot)
 
-Activate Anti-spam protection in your BM by this command : 
-/antispam on 
+Fork/Clone/Kang Repo from [Github](github.com/swatv3nub/HackfreaksHelperBot) 
 
-Made from the source code of [Aditya](t.me/xditya)
-
-You can find this bot on Telegram as [Hackfreaks](t.me/HackfreaksHelperBot)
-THIS REPO is Forked by [TANIA](t.me/TheLevinGod)"""
+This is a Simple Bot, if u want a Robust one use [Source](github.com/swatv3nub/Hackfreaks), U gotta Fix Some Bugs too for using the robust repo."""
 
 
 IMPORTED = {}
